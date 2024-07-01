@@ -7,3 +7,6 @@ R2D2
 Chewbacca
 Han solo
 
+
+rey
+finn
